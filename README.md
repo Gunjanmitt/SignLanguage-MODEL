@@ -33,9 +33,9 @@ dataset/
 
 
 ## 🖼️ Model Output Samples
-![Image](https://github.com/user-attachments/assets/a4a7d329-70a5-45eb-9da6-b5120f83a7ac)
-![Image](https://github.com/user-attachments/assets/9459e0ba-8250-4b6c-8358-7550bfea5315)
-![Image](https://github.com/user-attachments/assets/7dc5e06a-e806-46a6-b98e-b0288e28a47b)
+![Image](https://github.com/user-attachments/assets/d356e4be-6bc2-49e8-984c-7fd68ba32df9)
+![Image](https://github.com/user-attachments/assets/f499ee98-e032-48b7-991e-624b93159f8d)
+![Image](https://github.com/user-attachments/assets/9665057b-8991-431a-b14a-f18087e0e77e)
 ![Image](https://github.com/user-attachments/assets/fb299d81-61f4-40a9-bd35-a9ac7bed0d81)
 ![Image](https://github.com/user-attachments/assets/bb600041-69a8-4b0c-9b28-a8262c64dbcd)
 ![Image](https://github.com/user-attachments/assets/7018920a-8cbf-4bc7-9c2d-cc65a5e5f78e)
