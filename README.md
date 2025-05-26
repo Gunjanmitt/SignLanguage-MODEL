@@ -36,6 +36,10 @@ dataset/
 ![Image](https://github.com/user-attachments/assets/a4a7d329-70a5-45eb-9da6-b5120f83a7ac)
 ![Image](https://github.com/user-attachments/assets/9459e0ba-8250-4b6c-8358-7550bfea5315)
 ![Image](https://github.com/user-attachments/assets/7dc5e06a-e806-46a6-b98e-b0288e28a47b)
+![Image](https://github.com/user-attachments/assets/fb299d81-61f4-40a9-bd35-a9ac7bed0d81)
+![Image](https://github.com/user-attachments/assets/bb600041-69a8-4b0c-9b28-a8262c64dbcd)
+![Image](https://github.com/user-attachments/assets/7018920a-8cbf-4bc7-9c2d-cc65a5e5f78e)
+
 
 Install all dependencies:
 ```bash
