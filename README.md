@@ -63,7 +63,6 @@ The CNN is built using Keras and consists of:
 Below are some example prediction outputs from the model:
 
 ## 🖼️ Model Output Samples
-![Image](https://github.com/user-attachments/assets/a4a7d329-70a5-45eb-9da6-b5120f83a7ac)
 ![sample_output1](https://github.com/user-attachments/assets/56f403bc-504d-4b98-bde0-c205ac63ebd4)
 ![sample_output2](https://github.com/user-attachments/assets/db3e073c-c2cf-45a6-a72d-3755e14f22f7)
 
