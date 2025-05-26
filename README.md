@@ -64,11 +64,13 @@ Below are some example prediction outputs from the model:
 
 ## 🖼️ Model Output Samples
 
-![Output 1](sample_images/images/sample_output1.png.png)
-![Output 2](sample_images/images/sample_output2.png.png)
-![Output 3](sample_images/images/sample_output3.png.png)
-![Output 4](sample_images/images/sample_output4.png.png)
-![Output 5](sample_images/images/sample_output5.png.png)
+## Sample Outputs
+
+![Output 1](sample_images/sample_output1.png)
+![Output 2](sample_images/sample_output2.png)
+![Output 3](sample_images/sample_output3.png)
+![Output 4](sample_images/sample_output4.png)
+![Output 5](sample_images/sample_output5.png)
 
 
 
