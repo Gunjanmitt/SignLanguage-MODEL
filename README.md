@@ -63,22 +63,17 @@ The CNN is built using Keras and consists of:
 Below are some example prediction outputs from the model:
 
 ![Output 1](images/sample_output1.png)
-![sample_output1 png](https://github.com/user-attachments/assets/dc85b2a5-ebee-418e-8d0b-2b76ac0eb7e3)
-
 
 ![Output 2](images/sample_output2.png)
-![sample_output2 png](https://github.com/user-attachments/assets/5c1a26bc-8cad-46e6-abf7-495e1816bfea)
+
 
 ![Output 3](images/sample_output3.png)
-![sample_output3 png](https://github.com/user-attachments/assets/b7015ca0-5505-43bc-9c57-955abbecb31f)
 
 
 ![Output 4](images/sample_output4.png)
-![sample_output4 png](https://github.com/user-attachments/assets/b6aff1b6-e809-457b-aea6-e7cfa9d3e549)
-
 
 ![Output 5](images/sample_output5.png)
-![sample_output5 png](https://github.com/user-attachments/assets/08d73e00-a12a-48fb-9609-2d2281dfb965)
+
 
 Results & Performance
 ✅ Overall Accuracy: 95.19%
