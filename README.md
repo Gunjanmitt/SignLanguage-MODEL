@@ -64,15 +64,10 @@ Below are some example prediction outputs from the model:
 
 ## 🖼️ Model Output Samples
 
-## Sample Outputs
+![sample_output1](https://github.com/user-attachments/assets/56f403bc-504d-4b98-bde0-c205ac63ebd4)
+![sample_output2](https://github.com/user-attachments/assets/db3e073c-c2cf-45a6-a72d-3755e14f22f7)
 
-![Output 1](sample_images/sample_output1.png)
-![sample_output1](https://github.com/user-attachments/assets/961536b6-c816-4b62-89ce-489e336d9414)
-
-![Output 2](sample_images/sample_output2.png)
-![Output 3](sample_images/sample_output3.png)
-![Output 4](sample_images/sample_output4.png)
-![Output 5](sample_images/sample_output5.png)
+![sample_output3](https://github.com/user-attachments/assets/36f0e234-c85e-4a95-a999-c0d3d54ab545)
 
 
 
