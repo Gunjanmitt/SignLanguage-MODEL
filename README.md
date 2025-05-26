@@ -34,6 +34,8 @@ dataset/
 
 ## 🖼️ Model Output Samples
 ![Image](https://github.com/user-attachments/assets/a4a7d329-70a5-45eb-9da6-b5120f83a7ac)
+![Image](https://github.com/user-attachments/assets/9459e0ba-8250-4b6c-8358-7550bfea5315)
+![Image](https://github.com/user-attachments/assets/7dc5e06a-e806-46a6-b98e-b0288e28a47b)
 
 Install all dependencies:
 ```bash
