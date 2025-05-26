@@ -67,6 +67,8 @@ Below are some example prediction outputs from the model:
 ## Sample Outputs
 
 ![Output 1](sample_images/sample_output1.png)
+![sample_output1](https://github.com/user-attachments/assets/961536b6-c816-4b62-89ce-489e336d9414)
+
 ![Output 2](sample_images/sample_output2.png)
 ![Output 3](sample_images/sample_output3.png)
 ![Output 4](sample_images/sample_output4.png)
